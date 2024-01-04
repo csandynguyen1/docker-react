@@ -16,7 +16,7 @@ deplay:
   bucket_name: "elasticbeanstalk-us-east-1-590183857532"
   bucket_path: "docker-react"
   on:
-    branch: main
+    branch: master
   access_key_id: $AWS_ACCESS_KEY
   access_key_id: "$AWS_SECRET_KEY"
 
